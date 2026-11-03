@@ -1,3 +1,6 @@
+Dataset link: https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop?select=2019-Nov.csv
+----
+
 # E-commerce Conversion Funnel Analysis
 
 ## Business Objective
